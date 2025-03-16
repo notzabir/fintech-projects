@@ -1,0 +1,81 @@
+fraud_status,Clean_Text
+non-fraud,cash flow records accurate reflect actual cash movements
+fraud,company manipulated financial ratios meet loan covenants
+fraud,revenue future periods reported current period
+non-fraud,expenses properly categorized recorded
+fraud,company engaged channel stuffing inflate sales figures
+fraud,expenses understated capitalizing assets
+non-fraud,sales transactions accurately recorded financial statement
+non-fraud,value assets fairly reported financial statements
+fraud,financial records manipulated hide true state expenses
+non-fraud,cash flow records accurate reflect actual cash movements
+non-fraud,revenue reported correct accounting periods
+fraud,financial statement shows fabricated sales transactions
+fraud,intentional misstatement cash flow records
+non-fraud,cash flow records accurate reflect actual cash movements
+fraud,significant amounts revenue recognized without proper documentation
+non-fraud,sales figures accurately reported without manipulation
+fraud,revenue recognized prematurely actual sales occurred
+non-fraud,company reported stable revenues consistent historical trends
+fraud,company falsified financial documents secure larger loan
+non-fraud,balance sheet provides true fair view companys financial position
+fraud,significant relatedparty transactions disclosed
+non-fraud,assets reported balance sheet verified exist
+non-fraud,transactions recorded financial books authorized documented
+non-fraud,value assets fairly reported financial statements
+non-fraud,assets reported balance sheet verified exist
+non-fraud,company reported stable revenues consistent historical trends
+non-fraud,transactions recorded financial books authorized documented
+non-fraud,relatedparty transactions fully disclosed
+non-fraud,revenue reported correct accounting periods
+non-fraud,sales transactions accurately recorded financial statement
+non-fraud,relatedparty transactions fully disclosed
+fraud,unauthorized transactions recorded financial books
+non-fraud,value assets fairly reported financial statements
+non-fraud,business development costs properly recorded expenses
+non-fraud,balance sheet provides true fair view companys financial position
+non-fraud,revenue recognition supported proper documentation
+non-fraud,cash flow records accurate reflect actual cash movements
+non-fraud,transactions recorded financial books authorized documented
+non-fraud,cash flow records accurate reflect actual cash movements
+non-fraud,revenue recognition supported proper documentation
+non-fraud,financial documents audited found accurate
+non-fraud,expenses properly categorized recorded
+fraud,financial statement shows significant discrepancies inventory records
+non-fraud,sales transactions accurately recorded financial statement
+non-fraud,assets reported balance sheet verified exist
+non-fraud,financial records accurately reflect expenses liabilities
+fraud,company reported nonexistent assets enhance financial position
+non-fraud,sales transactions accurately recorded financial statement
+non-fraud,revenue recognition supported proper documentation
+non-fraud,sales figures accurately reported without manipulation
+non-fraud,revenue reported correct accounting periods
+non-fraud,cash flow records accurate reflect actual cash movements
+non-fraud,financial documents audited found accurate
+non-fraud,balance sheet provides true fair view companys financial position
+non-fraud,financial records accurately reflect expenses liabilities
+non-fraud,assets reported balance sheet verified exist
+non-fraud,sales figures accurately reported without manipulation
+non-fraud,cash flow records accurate reflect actual cash movements
+non-fraud,inventory records accurate match physical counts
+non-fraud,balance sheet provides true fair view companys financial position
+non-fraud,payments expenses recorded accurately without discrepancies
+non-fraud,inventory records accurate match physical counts
+fraud,company inflated value assets attract investors
+non-fraud,inventory records accurate match physical counts
+fraud,company reported inflated revenues including sales never occurred
+non-fraud,inventory records accurate match physical counts
+non-fraud,balance sheet provides true fair view companys financial position
+non-fraud,payments expenses recorded accurately without discrepancies
+non-fraud,companys debt fully disclosed balance sheet
+fraud,company used offbalancesheet entities hide debt
+non-fraud,business development costs properly recorded expenses
+non-fraud,expenses properly categorized recorded
+non-fraud,balance sheet provides true fair view companys financial position
+fraud,company failed report significant liabilities balance sheet
+fraud,multiple instances duplicate payments recorded expenses
+fraud,expenses fraudulently categorized business development costs
+non-fraud,sales figures accurately reported without manipulation
+non-fraud,relatedparty transactions fully disclosed
+non-fraud,sales transactions accurately recorded financial statement
+non-fraud,financial documents audited found accurate

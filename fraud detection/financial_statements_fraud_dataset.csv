@@ -1,0 +1,81 @@
+text,fraud_status
+Cash flow records are accurate and reflect actual cash movements.,non-fraud
+The company manipulated financial ratios to meet loan covenants.,fraud
+Revenue from future periods was reported in the current period.,fraud
+All expenses are properly categorized and recorded.,non-fraud
+The company engaged in channel stuffing to inflate sales figures.,fraud
+Expenses were understated by capitalizing them as assets.,fraud
+Sales transactions are accurately recorded in the financial statement.,non-fraud
+The value of assets is fairly reported in the financial statements.,non-fraud
+Financial records were manipulated to hide the true state of expenses.,fraud
+Cash flow records are accurate and reflect actual cash movements.,non-fraud
+Revenue is reported in the correct accounting periods.,non-fraud
+The financial statement shows fabricated sales transactions.,fraud
+There was intentional misstatement of cash flow records.,fraud
+Cash flow records are accurate and reflect actual cash movements.,non-fraud
+Significant amounts of revenue were recognized without proper documentation.,fraud
+Sales figures are accurately reported without manipulation.,non-fraud
+Revenue was recognized prematurely before the actual sales occurred.,fraud
+The company reported stable revenues consistent with historical trends.,non-fraud
+The company falsified financial documents to secure a larger loan.,fraud
+The balance sheet provides a true and fair view of the company’s financial position.,non-fraud
+Significant related-party transactions were not disclosed.,fraud
+The assets reported on the balance sheet are verified and exist.,non-fraud
+Transactions recorded in the financial books are authorized and documented.,non-fraud
+The value of assets is fairly reported in the financial statements.,non-fraud
+The assets reported on the balance sheet are verified and exist.,non-fraud
+The company reported stable revenues consistent with historical trends.,non-fraud
+Transactions recorded in the financial books are authorized and documented.,non-fraud
+All related-party transactions are fully disclosed.,non-fraud
+Revenue is reported in the correct accounting periods.,non-fraud
+Sales transactions are accurately recorded in the financial statement.,non-fraud
+All related-party transactions are fully disclosed.,non-fraud
+There were unauthorized transactions recorded in the financial books.,fraud
+The value of assets is fairly reported in the financial statements.,non-fraud
+Business development costs are properly recorded as expenses.,non-fraud
+The balance sheet provides a true and fair view of the company’s financial position.,non-fraud
+Revenue recognition is supported by proper documentation.,non-fraud
+Cash flow records are accurate and reflect actual cash movements.,non-fraud
+Transactions recorded in the financial books are authorized and documented.,non-fraud
+Cash flow records are accurate and reflect actual cash movements.,non-fraud
+Revenue recognition is supported by proper documentation.,non-fraud
+Financial documents were audited and found to be accurate.,non-fraud
+All expenses are properly categorized and recorded.,non-fraud
+The financial statement shows significant discrepancies in inventory records.,fraud
+Sales transactions are accurately recorded in the financial statement.,non-fraud
+The assets reported on the balance sheet are verified and exist.,non-fraud
+Financial records accurately reflect all expenses and liabilities.,non-fraud
+The company reported non-existent assets to enhance its financial position.,fraud
+Sales transactions are accurately recorded in the financial statement.,non-fraud
+Revenue recognition is supported by proper documentation.,non-fraud
+Sales figures are accurately reported without manipulation.,non-fraud
+Revenue is reported in the correct accounting periods.,non-fraud
+Cash flow records are accurate and reflect actual cash movements.,non-fraud
+Financial documents were audited and found to be accurate.,non-fraud
+The balance sheet provides a true and fair view of the company’s financial position.,non-fraud
+Financial records accurately reflect all expenses and liabilities.,non-fraud
+The assets reported on the balance sheet are verified and exist.,non-fraud
+Sales figures are accurately reported without manipulation.,non-fraud
+Cash flow records are accurate and reflect actual cash movements.,non-fraud
+The inventory records are accurate and match physical counts.,non-fraud
+The balance sheet provides a true and fair view of the company’s financial position.,non-fraud
+Payments and expenses are recorded accurately without discrepancies.,non-fraud
+The inventory records are accurate and match physical counts.,non-fraud
+The company inflated the value of its assets to attract investors.,fraud
+The inventory records are accurate and match physical counts.,non-fraud
+The company reported inflated revenues by including sales that never occurred.,fraud
+The inventory records are accurate and match physical counts.,non-fraud
+The balance sheet provides a true and fair view of the company’s financial position.,non-fraud
+Payments and expenses are recorded accurately without discrepancies.,non-fraud
+The company’s debt is fully disclosed on the balance sheet.,non-fraud
+The company used off-balance-sheet entities to hide debt.,fraud
+Business development costs are properly recorded as expenses.,non-fraud
+All expenses are properly categorized and recorded.,non-fraud
+The balance sheet provides a true and fair view of the company’s financial position.,non-fraud
+The company failed to report significant liabilities on its balance sheet.,fraud
+There were multiple instances of duplicate payments recorded as expenses.,fraud
+Expenses were fraudulently categorized as business development costs.,fraud
+Sales figures are accurately reported without manipulation.,non-fraud
+All related-party transactions are fully disclosed.,non-fraud
+Sales transactions are accurately recorded in the financial statement.,non-fraud
+Financial documents were audited and found to be accurate.,non-fraud
