@@ -1,3 +1,9 @@
+1. clone the repository: git clone https://github.com/your-username/your-repo.git
+2. cd frontend
+3. npm install
+4. npm run dev
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
